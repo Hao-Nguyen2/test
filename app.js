@@ -1,0 +1,55 @@
+import logger from './logger.js';
+import {TYPE_LOG,
+    TYPE_WANR} from './constants.js';
+
+logger('test message',TYPE_WANR);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
